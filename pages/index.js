@@ -40,7 +40,7 @@ export default function Home() {
             <p>We would love for you to join us.</p>
           </a>
 
-          <a href="https://discord.com/api/oauth2/authorize?client_id=916667000825217024&permissions=343866018864&scope=bot" target = '_blank' className={styles.card}>
+          <a href="https://discord.com/api/oauth2/authorize?client_id=916667000825217024&permissions=292326353968&scope=bot" target = '_blank' className={styles.card}>
             <h2>Add to your server &rarr;</h2>
             <p>Add the HackMeHome Bot to your server.</p>
           </a>
