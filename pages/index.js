@@ -29,8 +29,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Want to learn new paradigms? Need help with your current project? 
-          Love working on projects and mentoring the next generation?
+          This cool season of sharing, start working with other hackers who might need your help, or may be able to help you.
         </p>  
 
         <div className={styles.grid}>
