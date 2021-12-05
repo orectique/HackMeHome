@@ -29,7 +29,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          This cool season of sharing, start working with other hackers who might need your help, or may be able to help you.
+          This cool season of sharing, start working with other hackers who might need your help, or may be able to help you. Meet HackMeHome, a Discord Bot that helps you achieve that.
         </p>  
 
         <div className={styles.grid}>
