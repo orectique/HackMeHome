@@ -1,2 +1,0 @@
-language = "Python"
-run = "cd DiscordPy && python main.py"
